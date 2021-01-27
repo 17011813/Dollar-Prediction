@@ -1,6 +1,6 @@
 2016년 1월 1일부터 2021년 1월 26일 까지의 달러 변동 데이터를 가지고 2021년 1월 27일부터 2021년 2월 5일까지의 달러 변동을 예측하였습니다.
 
-달러 변동 csv파일은 Investing.Com 에서 다운받았습니다.
+달러 변동 csv파일은 [Investing.Com](https://kr.investing.com/currencies/usd-krw-historical-data) 에서 다운받았습니다.
 
 Date, Open, High, Low, Volume, Close 중에 Open, High, Low 값을 입력으로 주고 Close 값을 예측할 출력으로 잡았습니다.
 
